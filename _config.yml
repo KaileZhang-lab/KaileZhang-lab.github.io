@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", url: "/"}
-  - {title: "People"}
+  - {title: "People", url: "/people/"}
   - {title: "Research", url: "/research/"}
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
