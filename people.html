@@ -23,7 +23,7 @@ layout: page
   </a>
 
   <a href="https://scholar.google.com/citations?user=JCBN3MEAAAAJ&amp;hl=en" title="Google Scholar">
-    <img src="/assets/icons/google.jpg" alt="Google Scholar">
+    <img src="/assets/icons/google.jpeg" alt="Google Scholar">
   </a>
 
   <a href="https://github.com/KaileZhang-lab" title="GitHub">
@@ -42,34 +42,32 @@ layout: page
   display:flex;
   gap:28px;
   align-items:flex-start;
-  margin:40px 0;
 }
 
 .person-photo{
-  flex:0 0 220px;     /* portrait column width */
+  flex:0 0 220px;
 }
 
 .person-photo img{
   width:100%;
-  height:auto;
   border-radius:12px;
 }
 
 .person-info{
   flex:1;
+  display:flex;
+  flex-direction:column;
 }
 
-.person-info h2{
-  margin:0 0 10px 0;
+.person-links{
+  margin-top:auto;          /* pushes icons to bottom */
+  display:flex;
+  gap:14px;
 }
 
-/* Mobile: stack */
-@media (max-width: 800px){
-  .person{
-    flex-direction:column;
-  }
-  .person-photo{
-    max-width:220px;
-  }
+.person-links img{
+  width:20px;               /* icon size */
+  height:20px;
+  vertical-align:middle;
 }
 </style>
