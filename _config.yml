@@ -24,8 +24,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
       children:
       - title: "Soil–microbiome–plant-environment interactions"
         url: "/research/#Soil–microbiome–plant-environment interactions"
-      - title: "Impacts of abiotic stress on terrestrial ecosystems"
-        url: "/research/#Impacts of abiotic stress on terrestrial ecosystems"
+      - title: "Ecosystem functioning under environmental changes"
+        url: "/research/#Ecosystem functioning under environmental changes"
       }
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
