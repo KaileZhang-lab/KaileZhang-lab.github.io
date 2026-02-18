@@ -1,0 +1,49 @@
+---
+layout: page
+permalink: /research/
+---
+
+<section class="research-item" id="sustainable-management">
+
+  <div class="research-text">
+    <h2>Soil–microbiome–plant-environment interactions under sustainable management</h2>
+
+    <p>
+      These studies aim to elucidate how sustainable management in managed ecosystems shapes the links among soil health,
+      soil microbiomes, plant health, and environmental sustainability. In agroecosystems, we evaluate sustainability-oriented
+      practices including soil amendments (e.g., biochar), crop diversification, biofertilizers, crop–livestock integration,
+      and organic management. Collectively, this work identifies microbiome-informed strategies that enhance soil function and productivity while
+      advancing climate-resilient agroecosystems.
+    </p>
+
+    <div class="research-figure">
+      <img src="/assets/images/soil-microbe-plant.png" alt="Sustainable management">
+    </div>
+
+    <div class="papers">
+      <strong>Papers:</strong>
+      <span class="paper-list">
+        <a href="https://doi.org/10.1007/s00374-025-01967-5">Netto-Ferreira et al. 2026</a>
+        <a href="https://doi.org/10.1016/j.agee.2025.109781">Luo et al. 2025</a>
+        <a href="https://doi.org/10.1007/s00374-023-01701-z">Erhunmwunse et al. 2023</a>
+        <a href="https://doi.org/10.1016/j.scitotenv.2022.159204">Shen et al. 2023</a>
+        <a href="https://doi.org/10.1007/s00374-022-01675-4">Zhang et al. 2022</a>
+        <a href="https://doi.org/10.1007/s00374-022-01626-z">Zhang et al. 2022</a>
+        <a href="https://doi.org/10.1016/j.apsoil.2021.104254">Zhang et al. 2022</a>
+        <a href="https://doi.org/10.1007/s00374-021-01558-0">Shen et al. 2021</a>
+        <a href="https://doi.org/10.1016/j.soilbio.2021.108219">Zhang et al. 2021</a>
+        <a href="https://doi.org/10.1007/s00374-021-01546-4">Shen et al. 2021</a>
+        <a href="https://doi.org/10.3390/agronomy10050754">Zhang et al. 2020</a>
+        <a href="https://doi.org/10.1016/j.ejsobi.2020.103151">Zhang et al. 2020</a>
+        <a href="https://doi.org/10.1007/s00374-016-1154-0">Zhang et al. 2017</a>
+      </span>
+    </div>
+
+    <div class="funding">
+      <strong>Funding:</strong>
+      USDA-NIFA (2024-67019-42344, co-PI), Florida Department of Agriculture and Consumer Service (30040, co-PI),
+      SARE Graduate Grant Award (GS20-224, PI)
+    </div>
+
+  </div>
+</section>
