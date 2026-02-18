@@ -29,6 +29,8 @@ navigation:
         url: "/research/sustainable-management"
       - title: "Environmental change"
         url: "/research/environmental-change"
+      - title: "Forest ecosystems"
+        url: "/research/forest-ecosystems"
 
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
