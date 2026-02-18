@@ -22,10 +22,10 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "People", url: "/people/"}
   - {title: "Research", url: "/research/",
       children:
-      - title: "Soil–microbiome–plant-environment interactions"
-        url: "/research/#Soil–microbiome–plant-environment interactions"
-      - title: "Ecosystem functioning under environmental changes"
-        url: "/research/#Ecosystem functioning under environmental changes"
+      - title: "Sustainable management"
+        url: "/research/#sustainable-management"
+      - title: "Environmental change"
+        url: "/research/#environmental-change"
       }
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
