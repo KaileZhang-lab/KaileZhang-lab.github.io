@@ -17,10 +17,10 @@ show_minimal: false             # remove all clutter
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
+navigation:
   - {title: "Home", url: "/"}
   - {title: "People", url: "/people/"}
-  
+
   - title: "Research"
     url: "/research/"
     children:
@@ -28,7 +28,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
         url: "/research/#sustainable-management"
       - title: "Environmental change"
         url: "/research/#environmental-change"
-        
+
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
 
