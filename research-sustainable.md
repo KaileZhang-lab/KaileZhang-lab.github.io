@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /research/
+title: Sustainable management
+permalink: /research/sustainable-management/
 ---
 
 <section class="research-item" id="sustainable-management">
