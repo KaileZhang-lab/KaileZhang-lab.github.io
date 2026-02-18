@@ -5,10 +5,12 @@
 
 <header class="hover smooth">
   {% unless site.show_minimal and site.navigation and site.external %}
-    <h1 {% if site.navigation and site.external %}class="full"{% endif %}><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+    <h1 {% if site.navigation and site.external %}class="full"{% endif %}>
+      <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </h1>
   {% endunless %}
+
   {% include menu.html menu=site.navigation %}
-  {% include menu.html menu=site.external %}
 </header>
 
 {{ content }}
@@ -16,6 +18,12 @@
 {%- if site.footer -%}
 <footer class="hover">
   <div>{{ site.description }}</div>
+
+  <!-- External links moved here (Email / GitHub / RSS) -->
+  <div class="footer-links">
+    {% include menu.html menu=site.external %}
+  </div>
+
   {% include menu.html menu=site.footer %}
 </footer>
 {%- endif -%}
