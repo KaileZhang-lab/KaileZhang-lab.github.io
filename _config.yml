@@ -5,6 +5,10 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+url: "https://KaileZhang-lab.github.io"
+baseurl: ""
+feed:
+  path: feed.xml
 
 # Layout
 
