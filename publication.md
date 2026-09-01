@@ -4,6 +4,10 @@ title: ""
 ---
 ## Peer-reviewed publications – [Google Scholar](https://scholar.google.com/citations?user=JCBN3MEAAAAJ&hl=en)  
 #: corresponding author  
+**Zhang, K.#**; Mendez, V.; Chen, K.H.; Duringer, J.; Blount, A.; Mackowiak, C.; Liao, H.L. Biogeographic and climatic determinants of host-specific phyllosphere fungus-secondary metabolite associations. Communications Earth & Environment, 2026. [https://doi.org/10.1038/s43247-026-03842-z](https://doi.org/10.1038/s43247-026-03842-z)
+  
+Wang, H.; **Zhang, K.#**; Wu, S.; Hameed, K.; Kuo, A.; Barry, K.; Grigoriev, I.V.; Vilgalys, R.; Liao, H.L. Ectomycorrhizal fungi rewire plant-fungal molecular networks to enhance pine resilience under heavy metal stress. npj Biofilms and Microbiomes, 2026. [https://doi.org/10.1038/s41522-026-01091-8](https://doi.org/10.1038/s41522-026-01091-8)
+  
 Yang, Q., Liu, Q., Dong, K., **Zhang, K.**, Wu, C., Yin, R., Xu, L., Feng, Z., Yang, T. and Ge, T. Host genotype-enriched rhizosphere microbes enhance pea (Pisum sativum L.) yield. Plant and Soil, 2026 1-18. [https://doi.org/10.1007/s11104-026-08597-2](https://doi.org/10.1007/s11104-026-08597-2)
   
 Wang, H., Wu, S.H., **Zhang, K.**, Chen, K.H., Vilgalys, R. and Liao, H.L. Multiple hypervariable markers improve mycobiome classification in metatranscriptome and metagenome data. Communications Biology, 2026. [https://doi.org/10.1038/s42003-026-09820-7](https://doi.org/10.1038/s42003-026-09820-7)
