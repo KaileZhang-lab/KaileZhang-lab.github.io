@@ -4,9 +4,9 @@ title: ""
 ---
 ## Peer-reviewed publications – [Google Scholar](https://scholar.google.com/citations?user=JCBN3MEAAAAJ&hl=en)  
 #: corresponding author  
-**Zhang, K.#**, Willis, J.; Figliozzi, J.; Cheng, Z.; Liao, H.L.; Kidd, R. Tree mixing mitigates mulching‑induced trade‑offs in diversity and interactions of soil decomposers and ectomycorrhizal fungi in frequently burned conifer woodlands. Applied Soil Ecology, 2026. [10.1016/j.apsoil.2026.107530](10.1016/j.apsoil.2026.107530)
+**Zhang, K.#**, Willis, J.; Figliozzi, J.; Cheng, Z.; Liao, H.L.; Kidd, R. Tree mixing mitigates mulching‑induced trade‑offs in diversity and interactions of soil decomposers and ectomycorrhizal fungi in frequently burned conifer woodlands. Applied Soil Ecology, 2026. [https://doi.org/10.1016/j.apsoil.2026.107530](https://doi.org/10.1016/j.apsoil.2026.107530)
   
-Fletcher, J.; Wang, H.; **Zhang, K.**; Chen, X.; Barry, K.; Kuo, A.; Lipzen, A.; Steindorff, A.; Peterson, D.; Guo, J.; Grigoriev, I.; Chen, F.; Liao, H.L.; Branco, S. A North American mycorrhizal fungus displays zinc tolerance intraspecific variation and protects pines from zinc toxicity. Current Biology, 2026. [10.1016/j.cub.2026.09.050](10.1016/j.cub.2026.09.050)
+Fletcher, J.; Wang, H.; **Zhang, K.**; Chen, X.; Barry, K.; Kuo, A.; Lipzen, A.; Steindorff, A.; Peterson, D.; Guo, J.; Grigoriev, I.; Chen, F.; Liao, H.L.; Branco, S. A North American mycorrhizal fungus displays zinc tolerance intraspecific variation and protects pines from zinc toxicity. Current Biology, 2026. [https://doi.org/10.1016/j.cub.2026.09.050](https://doi.org/10.1016/j.cub.2026.09.050)
   
 Chen, Y.; Dong, Z.; **Zhang, K.**; Li, Y.; Yin, R.; Liu, Y.; Wang, Y.; Zhong, Y.; Liu, T.; Wang, X.; Zhou, B.; Liu, Q.; Chen, J.; Zhu, Z.; Ge, T. Integrated straw return enhances soil multifunctionality without exacerbating greenhouse gas emissions in a rice-faba bean rotation system. Biology and Fertility of Soils, 2026. [https://doi.org/10.1007/s00374-026-02046-z](https://doi.org/10.1007/s00374-026-02046-z)
   
