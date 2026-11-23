@@ -12,6 +12,8 @@ Chen, Y.; Dong, Z.; **Zhang, K.**; Li, Y.; Yin, R.; Liu, Y.; Wang, Y.; Zhong, Y.
   
 **Zhang, K.#**; Mendez, V.; Chen, K.H.; Duringer, J.; Blount, A.; Mackowiak, C.; Liao, H.L. Biogeographic and climatic determinants of host-specific phyllosphere fungus-secondary metabolite associations. Communications Earth & Environment, 2026. [https://doi.org/10.1038/s43247-026-03842-z](https://doi.org/10.1038/s43247-026-03842-z)
   
+Carey, K. A.; Liao, H.L.; **Zhang, K.**; Reimer, B.; Miller, D.L.; Cove, M.V.; Baruzzi, C. Seed priming increases germination and biomass production of native understory species used in longleaf pine savanna restoration. Ecological Restoration,2026, 44,  234-242. [https://doi.org/10.3368/er.44.3.234](https://doi.org/10.3368/er.44.3.234)
+  
 Wang, H.; **Zhang, K.#**; Wu, S.; Hameed, K.; Kuo, A.; Barry, K.; Grigoriev, I.V.; Vilgalys, R.; Liao, H.L. Ectomycorrhizal fungi rewire plant-fungal molecular networks to enhance pine resilience under heavy metal stress. npj Biofilms and Microbiomes, 2026. [https://doi.org/10.1038/s41522-026-01091-8](https://doi.org/10.1038/s41522-026-01091-8)
   
 Yang, Q., Liu, Q., Dong, K., **Zhang, K.**, Wu, C., Yin, R., Xu, L., Feng, Z., Yang, T. and Ge, T. Host genotype-enriched rhizosphere microbes enhance pea (Pisum sativum L.) yield. Plant and Soil, 2026 1-18. [https://doi.org/10.1007/s11104-026-08597-2](https://doi.org/10.1007/s11104-026-08597-2)
