@@ -8,7 +8,7 @@ title: ""
   
 Fletcher, J.; Wang, H.; **Zhang, K.**; Chen, X.; Barry, K.; Kuo, A.; Lipzen, A.; Steindorff, A.; Peterson, D.; Guo, J.; Grigoriev, I.; Chen, F.; Liao, H.L.; Branco, S. A North American mycorrhizal fungus displays zinc tolerance intraspecific variation and protects pines from zinc toxicity. Current Biology, 2026. [10.1016/j.cub.2026.09.050](10.1016/j.cub.2026.09.050)
   
-Chen, Y.; Dong, Z.; **Zhang, K.**; Li, Y.; Yin, R.; Liu, Y.; Wang, Y.; Zhong, Y.; Liu, T.; Wang, X.; Zhou, B.; Liu, Q.; Chen, J.; Zhu, Z.; Ge, T. Integrated straw return enhances soil multifunctionality without exacerbating greenhouse gas emissions in a rice-faba bean rotation system. Biology and Fertility of Soils, 2026 [https://doi.org/10.1007/s00374-026-02046-z](https://doi.org/10.1007/s00374-026-02046-z)
+Chen, Y.; Dong, Z.; **Zhang, K.**; Li, Y.; Yin, R.; Liu, Y.; Wang, Y.; Zhong, Y.; Liu, T.; Wang, X.; Zhou, B.; Liu, Q.; Chen, J.; Zhu, Z.; Ge, T. Integrated straw return enhances soil multifunctionality without exacerbating greenhouse gas emissions in a rice-faba bean rotation system. Biology and Fertility of Soils, 2026. [https://doi.org/10.1007/s00374-026-02046-z](https://doi.org/10.1007/s00374-026-02046-z)
   
 **Zhang, K.#**; Mendez, V.; Chen, K.H.; Duringer, J.; Blount, A.; Mackowiak, C.; Liao, H.L. Biogeographic and climatic determinants of host-specific phyllosphere fungus-secondary metabolite associations. Communications Earth & Environment, 2026. [https://doi.org/10.1038/s43247-026-03842-z](https://doi.org/10.1038/s43247-026-03842-z)
   
